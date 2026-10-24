@@ -1,0 +1,6 @@
+# Python >= 3.8
+# The core forensic deletion audit engine strictly relies on the Python standard library
+# (sqlite3, json, csv, re, hashlib, dataclasses, typing, os, sys, glob, subprocess).
+#
+# Optional test framework for automated regression testing:
+pytest>=7.0.0
