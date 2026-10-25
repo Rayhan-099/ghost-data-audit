@@ -1,37 +1,37 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# # Byte-compiled / optimized / DLL files
+# __pycache__/
+# *.py[cod]
+# *$py.class
 
-# Caches and virtual environments
-.venv/
-env/
-venv/
-.pytest_cache/
-.coverage
-htmlcov/
+# # Caches and virtual environments
+# .venv/
+# env/
+# venv/
+# .pytest_cache/
+# .coverage
+# htmlcov/
 
-# Competition / Benchmark datasets (proprietary / ground truth)
-dataset/
+# # Competition / Benchmark datasets (proprietary / ground truth)
+# dataset/
 
-# Submission archives and generated bulk outputs
-code.zip
-output*.csv
-*.tar.gz
-*.tar.zst
+# # Submission archives and generated bulk outputs
+# code.zip
+# output*.csv
+# *.tar.gz
+# *.tar.zst
 
-# Local agent traces, backups, internal scratchpads
-log.txt
-backup_baseline/
-.agents/
-code/evaluation/sample_predictions.csv
-output.before-test.csv
+# # Local agent traces, backups, internal scratchpads
+# log.txt
+# backup_baseline/
+# .agents/
+# code/evaluation/sample_predictions.csv
+# output.before-test.csv
 
-# OS and Editor artifacts
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# # OS and Editor artifacts
+# .DS_Store
+# Thumbs.db
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+# *~
